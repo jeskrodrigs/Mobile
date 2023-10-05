@@ -19,12 +19,14 @@
 //import MainNavApp from './components/15Navigation/01NavStack/MainNavApp';
 //import MainScreen from './components/15NavigationAula/15NavStack/MainScreen';
 //import PokemonApp from './components_prof/15Navigation/05Pokemon/PokemonApp';
-import PokemonApp from "./components/16Pokemon/PokemonApp";
+//import PokemonApp from "./components/16Pokemon/PokemonApp";
 //import MyIconButton from "./components/17IconButton/MyIconButton";
+//import Questao01 from "./components/Ap1/Questao01";
+import Questao02 from "./components/Ap1/Questao02";
 
 export default function App() {
   return (
-    <PokemonApp/>
+    <Questao02/>
   );
 }
 
